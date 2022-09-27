@@ -59,8 +59,8 @@
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
 ># [LIVE [HOSTED] PORTFOLIO LINK](https://brijesh8128-portfolio.netlify.app/ "Project-Portfolio-Netlify")
 >![Screenshot](./screenshot/screenshot-1.png)
->![Screenshot](./screenshot/screenshot-2.png)
->![Screenshot](./screenshot/screenshot-3.png)
+<!-- >![Screenshot](./screenshot/screenshot-2.png) -->
+<!-- >![Screenshot](./screenshot/screenshot-3.png) -->
 >![Screenshot](./screenshot/screenshot-4.png)
 >![Screenshot](./screenshot/screenshot-5.png)
 >![Screenshot](./screenshot/screenshot-6.png)
