@@ -51,9 +51,7 @@
 >![BADGE](https://img.shields.io/badge/GIT-GIT-orange)
 >![BADGE](https://img.shields.io/badge/NETLIFY-NETLIFY-blue)
 
-# Reminder 😮
 
->## I spent roughly around 30  hours finishing this project. The most of my time was focused on CSS Portion.
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
