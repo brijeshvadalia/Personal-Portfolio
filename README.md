@@ -103,7 +103,3 @@
 
 
 
-<!-- Project screenshot -->
-
-[product-screenshot]: /readme_assets/project01.jpg
-[project-url]: https://trending25.netlify.app/
